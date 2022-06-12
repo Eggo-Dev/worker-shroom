@@ -1,7 +1,7 @@
 {
   "name": "worker-shroom",
   "version": "1.0.0",
-  "description": "Shroom",
+  "description": "Shrooms",
   "main": "index.js",
   "dependencies": {
     "@discordjs/builders": "^0.15.0",
